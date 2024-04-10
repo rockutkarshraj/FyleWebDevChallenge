@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tax Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body> 
+   
+    <div class="all"> 
+    
+        <div class="container">
+        
+            <div class="title" style="padding-left: 110px;">Tax Calculator</div><br>
+            
+            <form action="/">
+                
+                <div class="details">
+                    <label for="fname">Enter your name:</label>
+                    <span class="my-icon" title="enter name"></span><br>
+                    <input type="text" id="fname" placeholder="Enter your full name">
+                    <br>
+                </div><br>
+               
+                <div class="details">
+                    <label for="gai">Enter gross annual income:</label>
+                    <span class="my-icon" title="Gross annumal income is your total salary in a year before any deduction"></span><br>
+                    <input type="text" id="gai" placeholder="Enter gross annual income">
+                    <br>
+                </div><br>
+                
+                <div class="details">
+                    <label for="ei">Enter extra income:</label>
+                    <span class="my-icon" title="Income other than your salary"></span><br>
+                    <input type="text" id="ei" placeholder="Enter extra income from other sources">
+                    <br>
+                </div><br>
+                
+                <div class="details">
+                    <label for="age">Enter age group:</label>
+                    <span class="my-icon" title="Enter age "></span><br>
+                    <select id="age" class="form-control" style="border-color: #e91414; border-radius: 5px;">
+                    <option value="">Select age group</option>
+                    <option value="<40">< 40</option>
+                    <option value=">=40&<60">≥ 40 & < 60</option>
+                    <option value=">=60">≥ 60</option>
+                </select><br>
+                </div><br>
+            
+                <div class="details">
+                    <label for="ded">Enter total applicable deduction:</label>
+                    <span class="my-icon" title="Enter amount spend in a year"></span><br>
+                    <input type="text" id="ded" placeholder="Add total applicable deductions">
+                    <br>
+                </div><br>
+                
+                <div class="details">
+                    <button type="button" id="submitButton">Submit</button><br>
+                </div>
+                
+        </form>          
+        
+    </div>
+</div>
+<div class="result-box" id="resultBox"></div>
+<script src="main.js"></script>
+</body>
+</html>
