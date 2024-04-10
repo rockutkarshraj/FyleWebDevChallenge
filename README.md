@@ -52,7 +52,7 @@ To set up the Fyle Web Development Challenge on your local system, follow these 
 
 6. **Start Making Changes:**
    - Now that you've set up your local clone, you can make major changes and contributions.
-     ![image](https://github.com/rockutkarshraj/Fyle-WebDev-Challenge/assets/74066135/e55f0ffa-8c45-4943-a3b0-c45f5b05266a)
+    
 
 
 ## Screenshots 📸
