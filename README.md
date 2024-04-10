@@ -56,13 +56,16 @@ To set up the Fyle Web Development Challenge on your local system, follow these 
 
 
 ## Screenshots 📸
-![Screenshot 1](https://github.com/rockutkarshraj/Fyle-WebDev-Challenge/assets/74066135/06a0851d-a0d0-4f78-9e08-6e114727ef82)
+![img1](https://github.com/rockutkarshraj/FyleWebDevChallenge/assets/74066135/ceb89689-3bdd-4a99-9380-a0e7c582dfd7)
 
-![Screenshot 2](https://github.com/rockutkarshraj/Fyle-WebDev-Challenge/assets/74066135/9ee2fd45-babc-4ae4-b2d7-246079f453f4)
 
-![Screenshot 3](https://github.com/rockutkarshraj/Fyle-WebDev-Challenge/assets/74066135/e6f9d6b1-f8c4-4fad-8f58-71099392ec3f)
+![img2](https://github.com/rockutkarshraj/FyleWebDevChallenge/assets/74066135/50ea7e37-c2cc-4c52-852b-df5ea7189731)
 
-![Screenshot 4](https://github.com/rockutkarshraj/Fyle-WebDev-Challenge/assets/74066135/ac0bcdca-dbb3-4cf8-b838-4311e6629b01)
+
+![img3](https://github.com/rockutkarshraj/FyleWebDevChallenge/assets/74066135/1d745afa-da25-493c-9b39-30d413a5652a)
+
+
+![img4](https://github.com/rockutkarshraj/FyleWebDevChallenge/assets/74066135/5c043080-7a68-462f-8e43-4d87c24f084c)
 
 ## Credits 🙌
 This project is based on the Fyle Web Development Challenge.
