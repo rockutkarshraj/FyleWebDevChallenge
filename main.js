@@ -67,7 +67,7 @@ function submitForm() {
 function displayResult(result) {
     var fname = document.getElementById("fname").value;
     var resultBox = document.getElementById("resultBox");
-    resultBox.textContent = fname+" your overall income after tax deductions is " + result + " Lakhs.";
+    resultBox.textContent = fname+" your overall income is" + result + " after tax deductions.";
     // Create a close button
     var closeButton = document.createElement("button");
     closeButton.textContent = "Close";
